@@ -1,9 +1,9 @@
 
-# Nosing — Product Landing Page
+# Nothing — Product Landing Page
 
-A modern, responsive landing page for **Nosing**, a brand offering cutting-edge earphones and smartphones.
+A modern, responsive landing page for **Nothing**, a brand offering cutting-edge earphones and smartphones.
 
-🌐 **Live Demo**: [azazeka.github.io/landing-page](https://azazeka.github.io/landing-page)
+🌐 [**Live Demo**](https://azazeka.github.io/landing-page)
 
 ---
 
